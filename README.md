@@ -62,3 +62,13 @@
 node_modules/
 dist/
 ```
+
+### Git Repository
+
+```
+git init
+git remote add origin https://github.com/username/repository.git
+git add . 
+git commit -m "Commit message"
+git push -u origin main
+```
