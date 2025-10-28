@@ -72,3 +72,11 @@ git add .
 git commit -m "Commit message"
 git push -u origin main
 ```
+
+### Golf Code
+
+- Consolidated prompts into minimal variables (c, t, s, p)
+- Inline calculations for tip, total, and per-person amounts
+- Conditional split output using ternary operator
+- Dynamic dashed line with "-".repeat(29) instead of literal
+- Fully matches required formatting while minimizing code length
